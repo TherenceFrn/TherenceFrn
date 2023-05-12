@@ -1,4 +1,14 @@
-### Hi there 👋
+## hello 👋
+- 🤵 I’m `TherenceFrn`;
+- 👀 I’m interested in Swift, TypeScript, Elixir and Rust;
+- 🌱 I focus on backend development, specially on high-availability applications;
+- 🥁 I develop random stuff - most of the times chatbots (such as [lastgram](https://github.com/musicorum-app/lastgram) - the last.fm bot for telegram) and other cool stuff (such as [ditto](https://github.com/musicorum-app/ditto), a high-speed service for image generation);
+- 📫 How to reach me:
+  - through Twitter ([@therenceferron](https://twitter.com/therenceferron)),
+  - through Discord ([Thérence#9209](https://discord.com/users/177524193510948864)),
+  - or through e-mail (`therence.ferron (at) gmail (dot) com`)
+
+<!-- [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=LittleTherence)](https://last.fm/user/LittleTherence) -->
 
 <!--
 **TherenceFrn/TherenceFrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
