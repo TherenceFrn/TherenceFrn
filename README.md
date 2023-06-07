@@ -1,8 +1,8 @@
 ## hello 👋
 - 🤵 I’m `TherenceFrn`;
-- 👀 I’m interested in Swift, TypeScript, Elixir and Rust;
-- 🌱 I focus on backend development, specially on high-availability applications;
-- 🥁 I develop random stuff - most of the times chatbots (such as [lastgram](https://github.com/musicorum-app/lastgram) - the last.fm bot for telegram) and other cool stuff (such as [ditto](https://github.com/musicorum-app/ditto), a high-speed service for image generation);
+- 👀 I’m interested in Symfony, Vue, Node and Wordpress;
+- 🌱 I focus on creating side projects to discover new tools;
+- 🥁 I develop random stuff;
 - 📫 How to reach me:
   - through Twitter ([@therenceferron](https://twitter.com/therenceferron)),
   - through Discord ([Thérence#9209](https://discord.com/users/177524193510948864)),
