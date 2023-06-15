@@ -1,6 +1,7 @@
+## hello 👋
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TherenceFrn&show_icons=true&theme=radical" />
 
-## hello 👋
 - 🤵 I’m `TherenceFrn`;
 - 👀 I’m interested in Symfony, Vue, Node and Wordpress;
 - 🌱 I focus on creating side projects to discover new tools;
