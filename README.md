@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/dilaouid">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TherenceFrn&hide_border=true&card_width=338&theme=github_dark" />
+</a>
